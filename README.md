@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mantrakp2004
-- 👀 I’m interested in sleeping
-- 🌱 I’m currently learning deep sleep
-- 💞️ I’m looking to collaborate on sleeping together
-- 📫 How to reach me dreams
+- 👀 I’m interested in nothing
+- 🌱 I’m currently learning nothing
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me: Dont
 
 <!---
 mantrakp2004/mantrakp2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
