@@ -1,0 +1,60 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background: #121212; /* Darker shade for background */
+    color: white;
+    height: 100%; /* Ensure full height */
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.5rem; /* Larger font size */
+    color: white;
+    margin: 0.5rem 0; /* Reduced space */
+}
+
+h2 {
+    font-size: 1.5rem; /* Adjusted font size */
+    color: #BBBBBB; /* Lighter grey */
+    margin: 1rem 0;
+}
+
+h3 {
+    color: white;
+    margin: 2rem 0 1rem; /* More space above */
+}
+
+.about-me, .contact-me {
+    margin-bottom: 20px;
+}
+
+.highlight {
+    color: #4CAF50; /* Brighter shade of green */
+}
+
+a {
+    color: #4CAF50; /* Matching green color */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.footer {
+    color: #BBBBBB; /* Lighter grey */
+    font-size: 1rem;
+    position: absolute; /* Keep it at the bottom */
+    bottom: 10px; /* Distance from the bottom */
+    left: 50%;
+    transform: translateX(-50%);
+}
