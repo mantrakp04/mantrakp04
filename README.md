@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mantra Patel</h1>
-<h3 align="center">A passionate mlops developer studying @UBC</h3>
+<h1 align="center">Hi 👋, I'm Mantra Patel (Barrel Of Lube)</h1>
+<h3 align="center">🚬 @<a href="https://github.com/hexclave/hexclave">hexclave</a>, prev @<a href='https://orchid.ai'>orchid</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mantrakp04&label=Profile%20views&color=0e75b6&style=flat" alt="mantrakp04" /> </p>
 
