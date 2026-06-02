@@ -5,10 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mantrakp04" alt="mantrakp04" /></a> </p>
 
-- 🔭 I’m currently working on **Scribs-AI**
-
-- 💬 Ask me about **AI & ML**
-
+- 🔭 I’m currently working on **Hexclave**
 - 📫 How to reach me **pmantra16@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
